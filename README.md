@@ -33,7 +33,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-https://camo.githubusercontent.com/7591ba77fbd38d05dec2897ebd9f3be290e456fa74bcb30c3b83239cc84348ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56657263656c2d3030303030303f7374796c653d666c6174266c6f676f3d76657263656c266c6f676f436f6c6f723d363144414642
 
 <br />
 <br />
